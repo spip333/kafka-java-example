@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a3ad93-71aa-43f7-b559-b0320140d89b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/consumer/ConsumerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/producer/ProducerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/simplelogger.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/producer/ProducerAppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="71a3ad93-71aa-43f7-b559-b0320140d89b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +46,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -142,6 +131,7 @@
       <workItem from="1711374126028" duration="3065000" />
       <workItem from="1711377237309" duration="2171000" />
       <workItem from="1711379491287" duration="280000" />
+      <workItem from="1711379809513" duration="316000" />
     </task>
     <servers />
   </component>
